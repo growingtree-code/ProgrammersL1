@@ -3,11 +3,6 @@ class LottosHL {
 
     public static void main(String[] args) {
 
-        String a = "0";
-        String b = "";
-        String c = "x";
-        String result = ((a) ? b || c : b);
-        System.out.println((result);
         /*int[] lottos = {1, 2, 3, 4, 5, 6};//구매한 로또번호
         int[] win_nums = {1, 2, 3, 4, 5, 6};//당첨번호
         int[] tt = test.solution(lottos, win_nums);
